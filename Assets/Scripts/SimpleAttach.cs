@@ -7,6 +7,7 @@ using Valve.VR.InteractionSystem;
 public class SimpleAttach : MonoBehaviour
 {
     private Interactable interactable;
+   
     // Start is called before the first frame update
     void Start()
     {
